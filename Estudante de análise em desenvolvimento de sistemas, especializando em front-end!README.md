@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @abrion9
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Beginner in the world of programming. Studying Systems Analysis and Development.
 
-<!---
-Estudante de análise em desenvolvimento de sistemas, especializando em front-end!
---->
+
